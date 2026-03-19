@@ -6,6 +6,12 @@ This project focuses on understanding how shaders work at a low level, including
 
 ---
 
+## Live Demo
+
+- [https://threejs-shader-lab.vercel.app/]
+
+---
+
 ## 🚀 Features
 
 - Custom **vertex and fragment shaders**
