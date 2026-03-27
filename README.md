@@ -1,4 +1,4 @@
-# threejs-shader-lab
+# Threejs-shader-lab
 
 A personal playground to experiment and learn custom shaders using **Three.js** and **GLSL**.
 
